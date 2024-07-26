@@ -1,4 +1,4 @@
-# 🎉 .gitignore AwesomeSauce
+# 🎉 Python Wizards Project
 
 ## Welcome!
 
