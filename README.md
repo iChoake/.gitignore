@@ -158,6 +158,20 @@ cython_debug/
 # PyCharm
 .idea/
 ```
+## 📋 How to Use this .gitignore_global File
+
+1. **Add entries to your `.gitignore_global` file**:
+   Open `~/.gitignore_global` in your favorite text editor and add the entries you want to ignore globally.
+
+2. **Verify your global ignore settings**:
+
+   ```bash
+   git config --global core.excludesfile
+   ```
+
+By including these ignore rules, you help maintain a clean and efficient working environment across all your projects by preventing unwanted files from being tracked by Git. This standard practice ensures that only the necessary code and assets are included in version control, which is particularly crucial for collaborative projects.
+
+For more information about `.gitignore` patterns and usage, refer to the [Git documentation](https://git-scm.com/docs/gitignore).
 
 ### 🖥️ Using VSCode?
 
